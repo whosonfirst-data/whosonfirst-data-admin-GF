@@ -1,0 +1,95 @@
+{
+  "id": 1277112647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.36612,5.12164,-54.36612,5.12164",
+    "geom:latitude":5.12164,
+    "geom:longitude":-54.36612,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9732",
+    "gn:admin4_code":"97360",
+    "gn:asciiname":"Je Vrede",
+    "gn:country_code":"GF",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10372200,
+    "gn:latitude":5.12164,
+    "gn:longitude":-54.36612,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"J\u00e9 Vr\u00e9d\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "J\u00e9 Vr\u00e9d\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677323,
+        1091713471,
+        85671195,
+        102191581,
+        85633147,
+        1108805933,
+        1091681061,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10372200
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"af2c52685666beb3b18ab4656376e465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091713471,
+            "locality_id":1277112647,
+            "region_id":85677323
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091681061,
+            "locality_id":1277112647,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091681061,
+            "locality_id":1277112647,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1277112647,
+    "wof:lastmodified":1537623381,
+    "wof:name":"Je Vrede",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.36612,
+    5.12164,
+    -54.36612,
+    5.12164
+],
+  "geometry": {"coordinates":[-54.36612,5.12164],"type":"Point"}
+}

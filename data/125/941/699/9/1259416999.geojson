@@ -1,0 +1,85 @@
+{
+  "id": 1259416999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.82033,3.92875,-51.82033,3.92875",
+    "geom:latitude":3.92875,
+    "geom:longitude":-51.82033,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97308",
+    "gn:asciiname":"Labombe",
+    "gn:country_code":"GF",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321232,
+    "gn:latitude":3.92875,
+    "gn:longitude":-51.82033,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Labombe",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Labombe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805929,
+        1091680925,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321232
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"63b2dae5bb686ca1a0f9e16a5d3e0330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680925,
+            "locality_id":1259416999,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680925,
+            "locality_id":1259416999,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1259416999,
+    "wof:lastmodified":1537623379,
+    "wof:name":"Labombe",
+    "wof:parent_id":1091680925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.82033,
+    3.92875,
+    -51.82033,
+    3.92875
+],
+  "geometry": {"coordinates":[-51.82033,3.92875],"type":"Point"}
+}

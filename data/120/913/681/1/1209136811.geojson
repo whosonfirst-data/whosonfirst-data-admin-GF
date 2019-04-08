@@ -1,0 +1,64 @@
+{
+  "id": 1209136811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.81712,5.6127,-53.81712,5.6127",
+    "geom:latitude":5.6127,
+    "geom:longitude":-53.81712,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9732",
+    "gn:admin4_code":"97306",
+    "gn:asciiname":"Populo",
+    "gn:country_code":"GF",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3380551,
+    "gn:latitude":5.6127,
+    "gn:longitude":-53.81712,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Populo",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3380551
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"aa7db9e25aadfaeb3b1974b83c132225",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209136811,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209136811,
+    "wof:lastmodified":1536296634,
+    "wof:name":"Populo",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.81712,
+    5.6127,
+    -53.81712,
+    5.6127
+],
+  "geometry": {"coordinates":[-53.81712,5.6127],"type":"Point"}
+}

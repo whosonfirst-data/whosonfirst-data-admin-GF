@@ -1,0 +1,71 @@
+{
+  "id": 1226762223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.09386,3.3096,-54.09386,3.3096",
+    "geom:latitude":3.3096,
+    "geom:longitude":-54.09386,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pedima",
+    "gn:country_code":"GF",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3380686,
+    "gn:latitude":3.3096,
+    "gn:longitude":-54.09386,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u00e9dima",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malavate",
+        "P\u00e9dima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677323,
+        1091713471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3380686
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"0e7edfdc426c7e0bee9293b9b956d20f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091713471,
+            "locality_id":1226762223,
+            "region_id":85677323
+        }
+    ],
+    "wof:id":1226762223,
+    "wof:lastmodified":1537623364,
+    "wof:name":"Pedima",
+    "wof:parent_id":1091713471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.09386,
+    3.3096,
+    -54.09386,
+    3.3096
+],
+  "geometry": {"coordinates":[-54.09386,3.3096],"type":"Point"}
+}

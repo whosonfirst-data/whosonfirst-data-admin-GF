@@ -1,0 +1,86 @@
+{
+  "id": 1309840849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.13625,5.45004,-53.13625,5.45004",
+    "geom:latitude":5.45004,
+    "geom:longitude":-53.13625,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97303",
+    "gn:asciiname":"Counamama",
+    "gn:country_code":"GF",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3381991,
+    "gn:latitude":5.45004,
+    "gn:longitude":-53.13625,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Counamama",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Conamama",
+        "Counamama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805929,
+        1091680627,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3381991
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"ad089ea6255a56e157c6bfb7a2602717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680627,
+            "locality_id":1309840849,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680627,
+            "locality_id":1309840849,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1309840849,
+    "wof:lastmodified":1537623371,
+    "wof:name":"Counamama",
+    "wof:parent_id":1091680627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.13625,
+    5.45004,
+    -53.13625,
+    5.45004
+],
+  "geometry": {"coordinates":[-53.13625,5.45004],"type":"Point"}
+}

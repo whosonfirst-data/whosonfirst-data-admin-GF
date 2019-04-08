@@ -1,0 +1,85 @@
+{
+  "id": 1327263211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.15992,4.80169,-53.15992,4.80169",
+    "geom:latitude":4.80169,
+    "geom:longitude":-53.15992,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97358",
+    "gn:asciiname":"Saint-Joseph",
+    "gn:country_code":"GF",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3380393,
+    "gn:latitude":4.80169,
+    "gn:longitude":-53.15992,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Saint-Joseph",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fra_x_preferred":[
+        "Saint-Joseph"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805929,
+        1091681039,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3380393
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"9351b3571a8d687aa619eeeb679b9042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091681039,
+            "locality_id":1327263211,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091681039,
+            "locality_id":1327263211,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1327263211,
+    "wof:lastmodified":1537623363,
+    "wof:name":"Saint-Joseph",
+    "wof:parent_id":1091681039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.15991999999999,
+    4.80169,
+    -53.15991999999999,
+    4.80169
+],
+  "geometry": {"coordinates":[-53.15991999999999,4.80169],"type":"Point"}
+}

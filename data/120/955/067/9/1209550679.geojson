@@ -1,0 +1,67 @@
+{
+  "id": 1209550679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.291,5.23379,-54.291,5.23379",
+    "geom:latitude":5.23379,
+    "geom:longitude":-54.291,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9732",
+    "gn:admin4_code":"97360",
+    "gn:asciiname":"Foukatiami",
+    "gn:country_code":"GF",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10372212,
+    "gn:latitude":5.23379,
+    "gn:longitude":-54.291,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Foukatiami",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Foukatiami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10372212
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"89e86b03281d611e40024ac01bc73bc1",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209550679,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209550679,
+    "wof:lastmodified":1537623381,
+    "wof:name":"Foukatiami",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.291,
+    5.23379,
+    -54.291,
+    5.23379
+],
+  "geometry": {"coordinates":[-54.291,5.23379],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209549847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.38333,4.83333,-52.38333,4.83333",
+    "geom:latitude":4.83333,
+    "geom:longitude":-52.38333,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97313",
+    "gn:asciiname":"Camp Rochambeau",
+    "gn:country_code":"GF",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3382216,
+    "gn:latitude":4.83333,
+    "gn:longitude":-52.38333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Camp Rochambeau",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3382216
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"9ef470cc5f0ee87616c555b9e7c14c6c",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209549847,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209549847,
+    "wof:lastmodified":1536283729,
+    "wof:name":"Camp Rochambeau",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.38333,
+    4.83333,
+    -52.38333,
+    4.83333
+],
+  "geometry": {"coordinates":[-52.38333,4.83333],"type":"Point"}
+}

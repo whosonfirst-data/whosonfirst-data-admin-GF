@@ -1,0 +1,85 @@
+{
+  "id": 1327267607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.46473,4.79663,-52.46473,4.79663",
+    "geom:latitude":4.79663,
+    "geom:longitude":-52.46473,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97313",
+    "gn:asciiname":"Marignan",
+    "gn:country_code":"GF",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311556,
+    "gn:latitude":4.79663,
+    "gn:longitude":-52.46473,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Marignan",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Marignan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805929,
+        1091680871,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311556
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"468cbb5527fc99e7437e5428210b6be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680871,
+            "locality_id":1327267607,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680871,
+            "locality_id":1327267607,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1327267607,
+    "wof:lastmodified":1537623377,
+    "wof:name":"Marignan",
+    "wof:parent_id":1091680871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.46473,
+    4.79663,
+    -52.46473,
+    4.79663
+],
+  "geometry": {"coordinates":[-52.46473,4.79663],"type":"Point"}
+}

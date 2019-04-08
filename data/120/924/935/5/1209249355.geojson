@@ -1,0 +1,68 @@
+{
+  "id": 1209249355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.44388,4.60097,-52.44388,4.60097",
+    "geom:latitude":4.60097,
+    "geom:longitude":-52.44388,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97310",
+    "gn:asciiname":"Edmond",
+    "gn:country_code":"GF",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3381782,
+    "gn:latitude":4.60097,
+    "gn:longitude":-52.44388,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Edmond",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Edmont",
+        "Edmond"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3381782
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"6864e0eaaf9ff52475679cf3ca48319a",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209249355,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209249355,
+    "wof:lastmodified":1537623370,
+    "wof:name":"Edmond",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.44388000000001,
+    4.60097,
+    -52.44388000000001,
+    4.60097
+],
+  "geometry": {"coordinates":[-52.44388000000001,4.60097],"type":"Point"}
+}

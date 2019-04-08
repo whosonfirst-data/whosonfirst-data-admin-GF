@@ -1,0 +1,88 @@
+{
+  "id": 1343888759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.52155,4.86311,-52.52155,4.86311",
+    "geom:latitude":4.86311,
+    "geom:longitude":-52.52155,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97313",
+    "gn:asciiname":"Coco",
+    "gn:country_code":"GF",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10370803,
+    "gn:latitude":4.86311,
+    "gn:longitude":-52.52155,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Coco",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Coco"
+    ],
+    "name:fra_x_variant":[
+        "Crique Coco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805929,
+        1091680871,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10370803
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"f2d401d6e99392320db73ac2027d886a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680871,
+            "locality_id":1343888759,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680871,
+            "locality_id":1343888759,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1343888759,
+    "wof:lastmodified":1537623380,
+    "wof:name":"Coco",
+    "wof:parent_id":1091680871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.52155,
+    4.86311,
+    -52.52155,
+    4.86311
+],
+  "geometry": {"coordinates":[-52.52155,4.86311],"type":"Point"}
+}

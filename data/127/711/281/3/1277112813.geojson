@@ -1,0 +1,86 @@
+{
+  "id": 1277112813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.11705,4.3049,-52.11705,4.3049",
+    "geom:latitude":4.3049,
+    "geom:longitude":-52.11705,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97301",
+    "gn:asciiname":"Coco",
+    "gn:country_code":"GF",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3382049,
+    "gn:latitude":4.3049,
+    "gn:longitude":-52.11705,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Coco",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Village Coco",
+        "Coco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805929,
+        1091680691,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3382049
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"cc0c27c8efc814bfde9cc086553cb4aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680691,
+            "locality_id":1277112813,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680691,
+            "locality_id":1277112813,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1277112813,
+    "wof:lastmodified":1537623371,
+    "wof:name":"Coco",
+    "wof:parent_id":1091680691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.11705,
+    4.3049,
+    -52.11705,
+    4.3049
+],
+  "geometry": {"coordinates":[-52.11705,4.3049],"type":"Point"}
+}

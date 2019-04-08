@@ -1,0 +1,67 @@
+{
+  "id": 1209345239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.33308,4.88497,-52.33308,4.88497",
+    "geom:latitude":4.88497,
+    "geom:longitude":-52.33308,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97307",
+    "gn:asciiname":"Balata-Est",
+    "gn:country_code":"GF",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10349705,
+    "gn:latitude":4.88497,
+    "gn:longitude":-52.33308,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Balata-Est",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Balata-Est"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349705
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"7048f6b974d31d20892b18f96618fbaf",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209345239,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209345239,
+    "wof:lastmodified":1537623379,
+    "wof:name":"Balata-Est",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.33308,
+    4.88497,
+    -52.33308,
+    4.88497
+],
+  "geometry": {"coordinates":[-52.33308,4.88497],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1243008965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.31735,4.85836,-52.31735,4.85836",
+    "geom:latitude":4.85836,
+    "geom:longitude":-52.31735,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97307",
+    "gn:asciiname":"La Brande",
+    "gn:country_code":"GF",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3381279,
+    "gn:latitude":4.85836,
+    "gn:longitude":-52.31735,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"La Brande",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Brande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805929,
+        1091680751,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3381279
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"411b0102c34df2c357dc695697af28e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680751,
+            "locality_id":1243008965,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680751,
+            "locality_id":1243008965,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1243008965,
+    "wof:lastmodified":1537623368,
+    "wof:name":"La Brande",
+    "wof:parent_id":1091680751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.31735,
+    4.85836,
+    -52.31735,
+    4.85836
+],
+  "geometry": {"coordinates":[-52.31735,4.85836],"type":"Point"}
+}

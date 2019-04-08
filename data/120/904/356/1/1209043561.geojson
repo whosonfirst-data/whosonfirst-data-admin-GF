@@ -1,0 +1,67 @@
+{
+  "id": 1209043561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.09083,3.73218,-54.09083,3.73218",
+    "geom:latitude":3.73218,
+    "geom:longitude":-54.09083,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9732",
+    "gn:admin4_code":"97353",
+    "gn:asciiname":"Kouiakou",
+    "gn:country_code":"GF",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10412916,
+    "gn:latitude":3.73218,
+    "gn:longitude":-54.09083,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kouiakou",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kouiakou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10412916
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"f0f984f51db9710f548c1fcf420c1249",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209043561,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209043561,
+    "wof:lastmodified":1537623383,
+    "wof:name":"Kouiakou",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.09083,
+    3.73218,
+    -54.09083,
+    3.73218
+],
+  "geometry": {"coordinates":[-54.09083,3.73218],"type":"Point"}
+}

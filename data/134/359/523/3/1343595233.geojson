@@ -1,0 +1,85 @@
+{
+  "id": 1343595233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.13281,5.3603,-54.13281,5.3603",
+    "geom:latitude":5.3603,
+    "geom:longitude":-54.13281,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9732",
+    "gn:admin4_code":"97311",
+    "gn:asciiname":"Ruben",
+    "gn:country_code":"GF",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3380447,
+    "gn:latitude":5.3603,
+    "gn:longitude":-54.13281,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ruben",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ruben"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805933,
+        1091680763,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3380447
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"309fb95c956547eef9dadf09b939fc7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680763,
+            "locality_id":1343595233,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680763,
+            "locality_id":1343595233,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1343595233,
+    "wof:lastmodified":1537623363,
+    "wof:name":"Ruben",
+    "wof:parent_id":1091680763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.13281,
+    5.3603,
+    -54.13281,
+    5.3603
+],
+  "geometry": {"coordinates":[-54.13281,5.3603],"type":"Point"}
+}

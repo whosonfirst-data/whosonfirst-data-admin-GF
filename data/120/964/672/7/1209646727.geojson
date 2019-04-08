@@ -1,0 +1,67 @@
+{
+  "id": 1209646727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.29895,4.90021,-52.29895,4.90021",
+    "geom:latitude":4.90021,
+    "geom:longitude":-52.29895,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97309",
+    "gn:asciiname":"Poncel",
+    "gn:country_code":"GF",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311661,
+    "gn:latitude":4.90021,
+    "gn:longitude":-52.29895,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Poncel",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Poncel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311661
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"068d4687619c10f1c05324e4d7bac78b",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209646727,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209646727,
+    "wof:lastmodified":1537623378,
+    "wof:name":"Poncel",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.29895,
+    4.90021,
+    -52.29895,
+    4.90021
+],
+  "geometry": {"coordinates":[-52.29895,4.90021],"type":"Point"}
+}

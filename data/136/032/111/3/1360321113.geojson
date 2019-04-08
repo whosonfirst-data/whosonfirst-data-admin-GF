@@ -1,0 +1,85 @@
+{
+  "id": 1360321113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.12506,4.9688,-53.12506,4.9688",
+    "geom:latitude":4.9688,
+    "geom:longitude":-53.12506,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97358",
+    "gn:asciiname":"Franconie",
+    "gn:country_code":"GF",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3381675,
+    "gn:latitude":4.9688,
+    "gn:longitude":-53.12506,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Franconie",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fra_x_preferred":[
+        "Franconie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805929,
+        1091681039,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3381675
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"95a38cc5c746e4bf0911616dd0b46b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091681039,
+            "locality_id":1360321113,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091681039,
+            "locality_id":1360321113,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1360321113,
+    "wof:lastmodified":1537623369,
+    "wof:name":"Franconie",
+    "wof:parent_id":1091681039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.12506,
+    4.9688,
+    -53.12506,
+    4.9688
+],
+  "geometry": {"coordinates":[-53.12506,4.9688],"type":"Point"}
+}

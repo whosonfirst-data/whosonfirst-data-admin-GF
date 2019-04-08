@@ -1,0 +1,86 @@
+{
+  "id": 1326664595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.38663,4.31904,-54.38663,4.31904",
+    "geom:latitude":4.31904,
+    "geom:longitude":-54.38663,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9732",
+    "gn:admin4_code":"97357",
+    "gn:asciiname":"Vieux Grand-Santi",
+    "gn:country_code":"GF",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3380076,
+    "gn:latitude":4.31904,
+    "gn:longitude":-54.38663,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Vieux Grand-Santi",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grand Santi",
+        "Vieux Grand-Santi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805933,
+        1091680995,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3380076
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"34a3674ff7e872aae1e8cc3bd30dfef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680995,
+            "locality_id":1326664595,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680995,
+            "locality_id":1326664595,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1326664595,
+    "wof:lastmodified":1537623361,
+    "wof:name":"Vieux Grand-Santi",
+    "wof:parent_id":1091680995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.38663,
+    4.31904,
+    -54.38663,
+    4.31904
+],
+  "geometry": {"coordinates":[-54.38663,4.31904],"type":"Point"}
+}

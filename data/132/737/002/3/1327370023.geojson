@@ -1,0 +1,86 @@
+{
+  "id": 1327370023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.13083,4.313,-52.13083,4.313",
+    "geom:latitude":4.313,
+    "geom:longitude":-52.13083,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97301",
+    "gn:asciiname":"Regina",
+    "gn:country_code":"GF",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":3380523,
+    "gn:latitude":4.313,
+    "gn:longitude":-52.13083,
+    "gn:modification_date":"2017-07-08",
+    "gn:name":"R\u00e9gina",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00e9gina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805929,
+        1091680691,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3380523,
+        "wk:page":"R%C3%A9gina"
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"cf3f5f569cc5128bb417f991dbb09543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680691,
+            "locality_id":1327370023,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680691,
+            "locality_id":1327370023,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1327370023,
+    "wof:lastmodified":1537623363,
+    "wof:name":"Regina",
+    "wof:parent_id":1091680691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.13083,
+    4.313,
+    -52.13083,
+    4.313
+],
+  "geometry": {"coordinates":[-52.13083,4.313],"type":"Point"}
+}

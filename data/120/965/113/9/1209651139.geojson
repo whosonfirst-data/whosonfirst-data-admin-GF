@@ -1,0 +1,67 @@
+{
+  "id": 1209651139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.30873,5.20892,-54.30873,5.20892",
+    "geom:latitude":5.20892,
+    "geom:longitude":-54.30873,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9732",
+    "gn:admin4_code":"97360",
+    "gn:asciiname":"Ondiaye",
+    "gn:country_code":"GF",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10372208,
+    "gn:latitude":5.20892,
+    "gn:longitude":-54.30873,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ondiay\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ondiay\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10372208
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"649342c5c2074b4e515989d52bd6a298",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209651139,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209651139,
+    "wof:lastmodified":1537623381,
+    "wof:name":"Ondiaye",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.30873,
+    5.20892,
+    -54.30873,
+    5.20892
+],
+  "geometry": {"coordinates":[-54.30873,5.20892],"type":"Point"}
+}

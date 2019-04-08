@@ -1,0 +1,88 @@
+{
+  "id": 1226273525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.21769,4.56824,-52.21769,4.56824",
+    "geom:latitude":4.56824,
+    "geom:longitude":-52.21769,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97310",
+    "gn:asciiname":"Camp Caiman",
+    "gn:country_code":"GF",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3382219,
+    "gn:latitude":4.56824,
+    "gn:longitude":-52.21769,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Camp Ca\u00efman",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Camp Ca\u00efman"
+    ],
+    "name:und_x_variant":[
+        "Camp Ca\u00efmans"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805929,
+        1091680907,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3382219
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"f9e1b3e91d59133339cf75aba0f6e1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680907,
+            "locality_id":1226273525,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680907,
+            "locality_id":1226273525,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1226273525,
+    "wof:lastmodified":1537623374,
+    "wof:name":"Camp Caiman",
+    "wof:parent_id":1091680907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.21769000000001,
+    4.56824,
+    -52.21769000000001,
+    4.56824
+],
+  "geometry": {"coordinates":[-52.21769000000001,4.56824],"type":"Point"}
+}

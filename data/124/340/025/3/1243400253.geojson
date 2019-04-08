@@ -1,0 +1,85 @@
+{
+  "id": 1243400253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.46251,4.93047,-53.46251,4.93047",
+    "geom:latitude":4.93047,
+    "geom:longitude":-53.46251,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9732",
+    "gn:admin4_code":"97306",
+    "gn:asciiname":"Carbet Mitan",
+    "gn:country_code":"GF",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3382184,
+    "gn:latitude":4.93047,
+    "gn:longitude":-53.46251,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Carbet Mitan",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fra_x_preferred":[
+        "Carbet Mitan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805933,
+        1091680813,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3382184
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"421280446f256342c6b73eca05908baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680813,
+            "locality_id":1243400253,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680813,
+            "locality_id":1243400253,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1243400253,
+    "wof:lastmodified":1537623374,
+    "wof:name":"Carbet Mitan",
+    "wof:parent_id":1091680813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.46251,
+    4.93047,
+    -53.46251,
+    4.93047
+],
+  "geometry": {"coordinates":[-53.46251,4.93047],"type":"Point"}
+}

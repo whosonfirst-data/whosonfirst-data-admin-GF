@@ -1,0 +1,71 @@
+{
+  "id": 1209136465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.14118,3.80415,-54.14118,3.80415",
+    "geom:latitude":3.80415,
+    "geom:longitude":-54.14118,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9732",
+    "gn:admin4_code":"97362",
+    "gn:asciiname":"Kormontibo",
+    "gn:country_code":"GF",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3381331,
+    "gn:latitude":3.80415,
+    "gn:longitude":-54.14118,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kormontibo",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cormotibo",
+        "Kormotibo",
+        "Cormontibo",
+        "Kormontibo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3381331,
+        "wk:page":"Cormontibo"
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"9ff6cb860d48054f4c9fb0c0f950e576",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209136465,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209136465,
+    "wof:lastmodified":1537623368,
+    "wof:name":"Kormontibo",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.14118000000001,
+    3.80415,
+    -54.14118000000001,
+    3.80415
+],
+  "geometry": {"coordinates":[-54.14118000000001,3.80415],"type":"Point"}
+}

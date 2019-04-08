@@ -1,0 +1,75 @@
+{
+  "id": 1242909897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.87446,3.80791,-51.87446,3.80791",
+    "geom:latitude":3.80791,
+    "geom:longitude":-51.87446,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97308",
+    "gn:asciiname":"Piedsaut",
+    "gn:country_code":"GF",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321161,
+    "gn:latitude":3.80791,
+    "gn:longitude":-51.87446,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Piedsaut",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Piedsaut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681891,
+        102191577,
+        404550343,
+        85633009,
+        102050449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321161
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"55c407c1e0dc80312d30a8cfe097beea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050449,
+            "localadmin_id":404550343,
+            "locality_id":1242909897,
+            "region_id":85681891
+        }
+    ],
+    "wof:id":1242909897,
+    "wof:lastmodified":1537623379,
+    "wof:name":"Piedsaut",
+    "wof:parent_id":404550343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.87446,
+    3.80791,
+    -51.87446,
+    3.80791
+],
+  "geometry": {"coordinates":[-51.87446,3.80791],"type":"Point"}
+}

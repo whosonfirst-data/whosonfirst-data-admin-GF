@@ -1,0 +1,72 @@
+{
+  "id": 1309740571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.54696,2.62636,-52.54696,2.62636",
+    "geom:latitude":2.62636,
+    "geom:longitude":-52.54696,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97356",
+    "gn:asciiname":"Kagnouma",
+    "gn:country_code":"GF",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3381377,
+    "gn:latitude":2.62636,
+    "gn:longitude":-52.54696,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kagnouma",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681891,
+        102191577,
+        404550343,
+        85633009,
+        102050449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3381377
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"7751066558fe9b9421fd3b07b1b61992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050449,
+            "localadmin_id":404550343,
+            "locality_id":1309740571,
+            "region_id":85681891
+        }
+    ],
+    "wof:id":1309740571,
+    "wof:lastmodified":1537024191,
+    "wof:name":"Kagnouma",
+    "wof:parent_id":404550343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.54696,
+    2.62636,
+    -52.54696,
+    2.62636
+],
+  "geometry": {"coordinates":[-52.54696,2.62636],"type":"Point"}
+}

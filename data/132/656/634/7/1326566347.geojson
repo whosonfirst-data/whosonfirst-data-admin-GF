@@ -1,0 +1,96 @@
+{
+  "id": 1326566347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.43376,4.42737,-54.43376,4.42737",
+    "geom:latitude":4.42737,
+    "geom:longitude":-54.43376,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9732",
+    "gn:admin4_code":"97357",
+    "gn:asciiname":"Aeroplane Konde",
+    "gn:country_code":"GF",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3382624,
+    "gn:latitude":4.42737,
+    "gn:longitude":-54.43376,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"A\u00e9roplane Kond\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Paramaribo",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00e9roplane Cond\u00e9",
+        "A\u00e9roplane Kond\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677323,
+        1091713471,
+        85671195,
+        102191581,
+        85633147,
+        1108805933,
+        1091680995,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3382624
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"9d10b6bacedf768a102695f3740053e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091713471,
+            "locality_id":1326566347,
+            "region_id":85677323
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680995,
+            "locality_id":1326566347,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680995,
+            "locality_id":1326566347,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1326566347,
+    "wof:lastmodified":1537623376,
+    "wof:name":"Aeroplane Konde",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.43376,
+    4.42737,
+    -54.43376,
+    4.42737
+],
+  "geometry": {"coordinates":[-54.43376,4.42737],"type":"Point"}
+}

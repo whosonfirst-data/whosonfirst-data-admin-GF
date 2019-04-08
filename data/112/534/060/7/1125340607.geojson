@@ -1,0 +1,90 @@
+{
+  "id": 1125340607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.1722,3.8086,-54.1722,3.8086",
+    "geom:latitude":3.8086,
+    "geom:longitude":-54.1722,
+    "gn:gn_country":"GF",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":2296,
+    "gn:population":2296,
+    "iso:country":"GF",
+    "lbl:latitude":3.8086,
+    "lbl:longitude":-54.1722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GF",
+    "qs_pg:gn_country":"GF",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6690699,
+    "qs_pg:gn_pop":2296,
+    "qs_pg:name":"Papa\u00efchton",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":643941,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805933,
+        1091680969,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690699,
+        "qs_pg:id":643941
+    },
+    "wof:country":"GF",
+    "wof:created":1497045635,
+    "wof:geomhash":"d496095cdc77a7b0f39783774fbcb7d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680969,
+            "localadmin_id":1125340607,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680969,
+            "localadmin_id":1125340607,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1125340607,
+    "wof:lastmodified":1509388650,
+    "wof:name":"Papa\u00efchton",
+    "wof:parent_id":1091680969,
+    "wof:placetype":"localadmin",
+    "wof:population":2296,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.1722,
+    3.8086,
+    -54.1722,
+    3.8086
+],
+  "geometry": {"coordinates":[-54.1722,3.8086],"type":"Point"}
+}

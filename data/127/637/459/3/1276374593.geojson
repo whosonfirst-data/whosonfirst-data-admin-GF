@@ -1,0 +1,93 @@
+{
+  "id": 1276374593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.93097,4.4085,-51.93097,4.4085",
+    "geom:latitude":4.4085,
+    "geom:longitude":-51.93097,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97301",
+    "gn:asciiname":"Guisan Bourg",
+    "gn:country_code":"GF",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3381482,
+    "gn:latitude":4.4085,
+    "gn:longitude":-51.93097,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Guisan Bourg",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fra_x_preferred":[
+        "Guisan Bourg"
+    ],
+    "name:und_x_variant":[
+        "Approuague",
+        "Guisambourg",
+        "Guizambourg",
+        "Guizanbourg",
+        "Guisanbourg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805929,
+        1091680691,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3381482,
+        "wk:page":"Guisanbourg"
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"31c478e0abe723ce6b3202b30164a65d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680691,
+            "locality_id":1276374593,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680691,
+            "locality_id":1276374593,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1276374593,
+    "wof:lastmodified":1537623369,
+    "wof:name":"Guisan Bourg",
+    "wof:parent_id":1091680691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.93097,
+    4.4085,
+    -51.93097,
+    4.4085
+],
+  "geometry": {"coordinates":[-51.93097,4.4085],"type":"Point"}
+}

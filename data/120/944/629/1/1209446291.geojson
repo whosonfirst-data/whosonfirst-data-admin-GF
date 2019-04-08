@@ -1,0 +1,67 @@
+{
+  "id": 1209446291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.16157,4.94559,-53.16157,4.94559",
+    "geom:latitude":4.94559,
+    "geom:longitude":-53.16157,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97358",
+    "gn:asciiname":"La Villette",
+    "gn:country_code":"GF",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3381219,
+    "gn:latitude":4.94559,
+    "gn:longitude":-53.16157,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"La Villette",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Villette"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3381219
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"5f99e6613704962d96cd3aac02a17f7f",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209446291,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209446291,
+    "wof:lastmodified":1537623367,
+    "wof:name":"La Villette",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.16157,
+    4.94559,
+    -53.16157,
+    4.94559
+],
+  "geometry": {"coordinates":[-53.16157,4.94559],"type":"Point"}
+}

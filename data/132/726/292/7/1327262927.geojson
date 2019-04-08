@@ -1,0 +1,85 @@
+{
+  "id": 1327262927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.35358,4.88645,-52.35358,4.88645",
+    "geom:latitude":4.88645,
+    "geom:longitude":-52.35358,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97307",
+    "gn:asciiname":"Les Loussais",
+    "gn:country_code":"GF",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311570,
+    "gn:latitude":4.88645,
+    "gn:longitude":-52.35358,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Les Loussa\u00efs",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Les Loussa\u00efs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805929,
+        1091680751,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311570
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"382c4fa4aae71dac23786604cd57b682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680751,
+            "locality_id":1327262927,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680751,
+            "locality_id":1327262927,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1327262927,
+    "wof:lastmodified":1537623377,
+    "wof:name":"Les Loussais",
+    "wof:parent_id":1091680751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.35358,
+    4.88645,
+    -52.35358,
+    4.88645
+],
+  "geometry": {"coordinates":[-52.35358,4.88645],"type":"Point"}
+}

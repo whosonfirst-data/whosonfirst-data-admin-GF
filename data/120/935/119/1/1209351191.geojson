@@ -1,0 +1,68 @@
+{
+  "id": 1209351191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.14461,3.80579,-54.14461,3.80579",
+    "geom:latitude":3.80579,
+    "geom:longitude":-54.14461,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9732",
+    "gn:admin4_code":"97362",
+    "gn:asciiname":"Papaichton",
+    "gn:country_code":"GF",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3380743,
+    "gn:latitude":3.80579,
+    "gn:longitude":-54.14461,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Papa\u00efchton",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pompidou",
+        "Papa\u00efchton"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3380743
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"2bcfbf745d7c67f8f2ea6cf2d4f8eab4",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209351191,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209351191,
+    "wof:lastmodified":1537623365,
+    "wof:name":"Papaichton",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.14461,
+    3.80579,
+    -54.14461,
+    3.80579
+],
+  "geometry": {"coordinates":[-54.14461,3.80579],"type":"Point"}
+}

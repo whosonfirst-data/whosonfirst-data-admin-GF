@@ -1,0 +1,68 @@
+{
+  "id": 1209651655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.26302,4.89699,-52.26302,4.89699",
+    "geom:latitude":4.89699,
+    "geom:longitude":-52.26302,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97309",
+    "gn:asciiname":"Camp de Remire",
+    "gn:country_code":"GF",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3382218,
+    "gn:latitude":4.89699,
+    "gn:longitude":-52.26302,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Camp de R\u00e9mire",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u00e9mire-Camp",
+        "Camp de R\u00e9mire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3382218
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"7c274eb1cfad452c60070d910d48fc36",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209651655,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209651655,
+    "wof:lastmodified":1537623374,
+    "wof:name":"Camp de Remire",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.26302,
+    4.89699,
+    -52.26302,
+    4.89699
+],
+  "geometry": {"coordinates":[-52.26302,4.89699],"type":"Point"}
+}

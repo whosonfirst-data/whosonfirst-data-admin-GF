@@ -1,0 +1,90 @@
+{
+  "id": 1125384719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.1292,4.3136,-52.1292,4.3136",
+    "geom:latitude":4.3136,
+    "geom:longitude":-52.1292,
+    "gn:gn_country":"GF",
+    "gn:gn_fcode":"ADM4",
+    "gn:gn_pop":826,
+    "gn:population":826,
+    "iso:country":"GF",
+    "lbl:latitude":4.3136,
+    "lbl:longitude":-52.1292,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"GF",
+    "qs_pg:gn_country":"GF",
+    "qs_pg:gn_fcode":"ADM4",
+    "qs_pg:gn_id":6690700,
+    "qs_pg:gn_pop":826,
+    "qs_pg:name":"R\u00e9gina",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":643942,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805929,
+        1091680691,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6690700,
+        "qs_pg:id":643942
+    },
+    "wof:country":"GF",
+    "wof:created":1497048291,
+    "wof:geomhash":"309cbccd72d34230912a7981d36ac547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680691,
+            "localadmin_id":1125384719,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680691,
+            "localadmin_id":1125384719,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1125384719,
+    "wof:lastmodified":1509389683,
+    "wof:name":"R\u00e9gina",
+    "wof:parent_id":1091680691,
+    "wof:placetype":"localadmin",
+    "wof:population":826,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.1292,
+    4.3136,
+    -52.1292,
+    4.3136
+],
+  "geometry": {"coordinates":[-52.1292,4.3136],"type":"Point"}
+}

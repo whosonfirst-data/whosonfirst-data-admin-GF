@@ -1,0 +1,85 @@
+{
+  "id": 1343497045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.8994,4.73009,-53.8994,4.73009",
+    "geom:latitude":4.73009,
+    "geom:longitude":-53.8994,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9732",
+    "gn:admin4_code":"97311",
+    "gn:asciiname":"Bernard",
+    "gn:country_code":"GF",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3382382,
+    "gn:latitude":4.73009,
+    "gn:longitude":-53.8994,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bernard",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fra_x_preferred":[
+        "Bernard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805933,
+        1091680763,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3382382
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"14df72401b96c35b6ebcbb70e9cd8777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680763,
+            "locality_id":1343497045,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680763,
+            "locality_id":1343497045,
+            "macrocounty_id":1108805933,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1343497045,
+    "wof:lastmodified":1537623375,
+    "wof:name":"Bernard",
+    "wof:parent_id":1091680763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.8994,
+    4.73009,
+    -53.8994,
+    4.73009
+],
+  "geometry": {"coordinates":[-53.8994,4.73009],"type":"Point"}
+}

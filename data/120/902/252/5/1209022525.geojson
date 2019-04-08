@@ -1,0 +1,64 @@
+{
+  "id": 1209022525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.35738,4.05378,-54.35738,4.05378",
+    "geom:latitude":4.05378,
+    "geom:longitude":-54.35738,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Abouna Sounga",
+    "gn:country_code":"GF",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3382637,
+    "gn:latitude":4.05378,
+    "gn:longitude":-54.35738,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Abouna Sounga",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Abouna Sounga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3382637
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"6f067f3a0619eec84dc700e7df71933c",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209022525,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209022525,
+    "wof:lastmodified":1537623377,
+    "wof:name":"Abouna Sounga",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.35738000000001,
+    4.05378,
+    -54.35738000000001,
+    4.05378
+],
+  "geometry": {"coordinates":[-54.35738000000001,4.05378],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326566903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-51.87114,3.81398,-51.87114,3.81398",
+    "geom:latitude":3.81398,
+    "geom:longitude":-51.87114,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97308",
+    "gn:asciiname":"Habitation Roze",
+    "gn:country_code":"GF",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321185,
+    "gn:latitude":3.81398,
+    "gn:longitude":-51.87114,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Habitation Roz\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Habitation Roz\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85681891,
+        102191577,
+        404550343,
+        85633009,
+        102050449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321185
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"1a18c5854a65315d750ceb0f39f36603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85633009,
+            "county_id":102050449,
+            "localadmin_id":404550343,
+            "locality_id":1326566903,
+            "region_id":85681891
+        }
+    ],
+    "wof:id":1326566903,
+    "wof:lastmodified":1537623379,
+    "wof:name":"Habitation Roze",
+    "wof:parent_id":404550343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -51.87114,
+    3.81398,
+    -51.87114,
+    3.81398
+],
+  "geometry": {"coordinates":[-51.87114,3.81398],"type":"Point"}
+}

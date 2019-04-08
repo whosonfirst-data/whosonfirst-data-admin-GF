@@ -1,0 +1,82 @@
+{
+  "id": 1310535253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.67258,4.27686,-52.67258,4.27686",
+    "geom:latitude":4.27686,
+    "geom:longitude":-52.67258,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97310",
+    "gn:asciiname":"Carriere",
+    "gn:country_code":"GF",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3382170,
+    "gn:latitude":4.27686,
+    "gn:longitude":-52.67258,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Carri\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805929,
+        1091680907,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3382170
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"79c4629a6f032e0edab6d6361c7ba701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091680907,
+            "locality_id":1310535253,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091680907,
+            "locality_id":1310535253,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1310535253,
+    "wof:lastmodified":1536873041,
+    "wof:name":"Carriere",
+    "wof:parent_id":1091680907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.67258,
+    4.27686,
+    -52.67258,
+    4.27686
+],
+  "geometry": {"coordinates":[-52.67258,4.27686],"type":"Point"}
+}

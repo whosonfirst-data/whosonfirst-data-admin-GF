@@ -1,0 +1,67 @@
+{
+  "id": 1209546223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.94783,5.17011,-52.94783,5.17011",
+    "geom:latitude":5.17011,
+    "geom:longitude":-52.94783,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97312",
+    "gn:asciiname":"Saint-Bernard",
+    "gn:country_code":"GF",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3380425,
+    "gn:latitude":5.17011,
+    "gn:longitude":-52.94783,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Saint-Bernard",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fra_x_preferred":[
+        "Saint-Bernard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3380425
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"3575ac136e491713c63c004e539b7d09",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209546223,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209546223,
+    "wof:lastmodified":1537623363,
+    "wof:name":"Saint-Bernard",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.94783,
+    5.17011,
+    -52.94783,
+    5.17011
+],
+  "geometry": {"coordinates":[-52.94783,5.17011],"type":"Point"}
+}

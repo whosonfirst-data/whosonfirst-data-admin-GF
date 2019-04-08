@@ -1,0 +1,67 @@
+{
+  "id": 1209350785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.29902,5.22597,-54.29902,5.22597",
+    "geom:latitude":5.22597,
+    "geom:longitude":-54.29902,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9732",
+    "gn:admin4_code":"97360",
+    "gn:asciiname":"Patience",
+    "gn:country_code":"GF",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3380698,
+    "gn:latitude":5.22597,
+    "gn:longitude":-54.29902,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Patience",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Patience"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3380698
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"a939dabe68102f63c574f9e4b0a4a107",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209350785,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209350785,
+    "wof:lastmodified":1537623365,
+    "wof:name":"Patience",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.29902,
+    5.22597,
+    -54.29902,
+    5.22597
+],
+  "geometry": {"coordinates":[-54.29902,5.22597],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209041435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-52.26536,4.58628,-52.26536,4.58628",
+    "geom:latitude":4.58628,
+    "geom:longitude":-52.26536,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97310",
+    "gn:asciiname":"Placer Tresor",
+    "gn:country_code":"GF",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3380578,
+    "gn:latitude":4.58628,
+    "gn:longitude":-52.26536,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Placer Tr\u00e9sor",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Placer Tr\u00e9sor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3380578
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"e2953d10bdc44c02d19617d5cb3d5de1",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209041435,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209041435,
+    "wof:lastmodified":1537623364,
+    "wof:name":"Placer Tresor",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -52.26536,
+    4.58628,
+    -52.26536,
+    4.58628
+],
+  "geometry": {"coordinates":[-52.26536,4.58628],"type":"Point"}
+}

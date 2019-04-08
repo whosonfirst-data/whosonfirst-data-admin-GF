@@ -1,0 +1,67 @@
+{
+  "id": 1326745195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.41925,4.58206,-54.41925,4.58206",
+    "geom:latitude":4.58206,
+    "geom:longitude":-54.41925,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Moussoue Santi Tabiki",
+    "gn:country_code":"GF",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3380861,
+    "gn:latitude":4.58206,
+    "gn:longitude":-54.41925,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Moussou\u00e9 Santi Tabiki",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191577,
+        85632443,
+        85677323,
+        1091713471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3380861
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"e9e968a68c37fbb0e86724c1492a1e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632443,
+            "county_id":1091713471,
+            "locality_id":1326745195,
+            "region_id":85677323
+        }
+    ],
+    "wof:id":1326745195,
+    "wof:lastmodified":1536676941,
+    "wof:name":"Moussoue Santi Tabiki",
+    "wof:parent_id":1091713471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.41925,
+    4.58206,
+    -54.41925,
+    4.58206
+],
+  "geometry": {"coordinates":[-54.41925,4.58206],"type":"Point"}
+}

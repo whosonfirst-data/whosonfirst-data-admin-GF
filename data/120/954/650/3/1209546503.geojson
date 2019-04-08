@@ -1,0 +1,70 @@
+{
+  "id": 1209546503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-54.24504,5.27806,-54.24504,5.27806",
+    "geom:latitude":5.27806,
+    "geom:longitude":-54.24504,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9732",
+    "gn:admin4_code":"97311",
+    "gn:asciiname":"Kola Assakio",
+    "gn:country_code":"GF",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10372222,
+    "gn:latitude":5.27806,
+    "gn:longitude":-54.24504,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kola Assakio",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kola Assakio"
+    ],
+    "name:fra_x_variant":[
+        "Paramaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10372222
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"ab9b15fbcd9be5bb6e23f012dedbf42a",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209546503,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1209546503,
+    "wof:lastmodified":1537623382,
+    "wof:name":"Kola Assakio",
+    "wof:parent_id":85671195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -54.24504,
+    5.27806,
+    -54.24504,
+    5.27806
+],
+  "geometry": {"coordinates":[-54.24504,5.27806],"type":"Point"}
+}

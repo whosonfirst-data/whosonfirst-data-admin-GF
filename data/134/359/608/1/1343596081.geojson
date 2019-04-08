@@ -1,0 +1,82 @@
+{
+  "id": 1343596081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.02915,5.01314,-53.02915,5.01314",
+    "geom:latitude":5.01314,
+    "geom:longitude":-53.02915,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97358",
+    "gn:asciiname":"Saut Tigre",
+    "gn:country_code":"GF",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3380325,
+    "gn:latitude":5.01314,
+    "gn:longitude":-53.02915,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Saut Tigre",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805929,
+        1091681039,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3380325
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"376ea57f54229c7758e5195ea057a656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091681039,
+            "locality_id":1343596081,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091681039,
+            "locality_id":1343596081,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1343596081,
+    "wof:lastmodified":1537046033,
+    "wof:name":"Saut Tigre",
+    "wof:parent_id":1091681039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.02915,
+    5.01314,
+    -53.02915,
+    5.01314
+],
+  "geometry": {"coordinates":[-53.02915,5.01314],"type":"Point"}
+}

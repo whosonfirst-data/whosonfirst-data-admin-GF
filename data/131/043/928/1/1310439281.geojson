@@ -1,0 +1,85 @@
+{
+  "id": 1310439281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-53.1508,4.96083,-53.1508,4.96083",
+    "geom:latitude":4.96083,
+    "geom:longitude":-53.1508,
+    "gn:admin1_code":"GF",
+    "gn:admin2_code":"973",
+    "gn:admin3_code":"9731",
+    "gn:admin4_code":"97358",
+    "gn:asciiname":"Sursaut",
+    "gn:country_code":"GF",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3380255,
+    "gn:latitude":4.96083,
+    "gn:longitude":-53.1508,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Sursaut",
+    "gn:population":0,
+    "gn:timezone":"America/Cayenne",
+    "iso:country":"GF",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sursaut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671195,
+        102191581,
+        85633147,
+        1108805929,
+        1091681039,
+        102191577,
+        85632233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3380255
+    },
+    "wof:country":"GF",
+    "wof:geomhash":"ec18afa4a7f915664ba512f408d2589c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "county_id":1091681039,
+            "locality_id":1310439281,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632233,
+            "county_id":1091681039,
+            "locality_id":1310439281,
+            "macrocounty_id":1108805929,
+            "region_id":85671195
+        }
+    ],
+    "wof:id":1310439281,
+    "wof:lastmodified":1537623362,
+    "wof:name":"Sursaut",
+    "wof:parent_id":1091681039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -53.1508,
+    4.96083,
+    -53.1508,
+    4.96083
+],
+  "geometry": {"coordinates":[-53.1508,4.96083],"type":"Point"}
+}
