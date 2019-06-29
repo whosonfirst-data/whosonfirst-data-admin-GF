@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14219437.086967,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-52.652796,5.161598,-52.652796,5.161598",
     "geom:latitude":5.161598,
     "geom:longitude":-52.652796,
@@ -26,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:fra_x_preferred":[
-        "Moyoco"
-    ],
-    "name:fre_x_preferred":[
         "Moyoco"
     ],
     "name:unk_x_variant":[
@@ -104,7 +101,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1533329128,
+    "wof:lastmodified":1561839904,
     "wof:name":"Moyoco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

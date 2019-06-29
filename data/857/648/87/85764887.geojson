@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3130286.163884,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-52.646095,5.171989,-52.646095,5.171989",
     "geom:latitude":5.171989,
     "geom:longitude":-52.646095,
@@ -29,9 +29,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:fra_x_preferred":[
-        "Les Roches"
-    ],
-    "name:fre_x_preferred":[
         "Les Roches"
     ],
     "name:unk_x_variant":[
@@ -128,7 +125,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1534379330,
+    "wof:lastmodified":1561839904,
     "wof:name":"Les Roches",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

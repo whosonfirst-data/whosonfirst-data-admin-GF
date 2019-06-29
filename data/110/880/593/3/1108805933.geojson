@@ -21,35 +21,29 @@
     "name:ast_x_preferred":[
         "Distritu de Saint-Laurent-du-Maroni"
     ],
-    "name:baq_x_preferred":[
-        "Saint-Laurent-du-Maroniko barrutia"
-    ],
     "name:bre_x_preferred":[
         "arondisamant Saint-Laurent-du-Maroni"
     ],
     "name:cat_x_preferred":[
         "Districte de Saint-Laurent-du-Maroni"
     ],
-    "name:chi_x_preferred":[
-        "\u5723\u6d1b\u6717\u675c\u9a6c\u7f57\u5c3c\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Arrondissement Saint-Laurent-du-Maroni"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Arrondissement Saint-Laurent-du-Maroni"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u03c4\u03bf\u03c5 \u03a3\u03b1\u03b9\u03bd-\u039b\u03c9\u03c1\u03ac\u03bd-\u03bd\u03c4\u03c5-\u039c\u03b1\u03c1\u03bf\u03bd\u03af"
     ],
     "name:eng_x_preferred":[
         "Saint-Laurent-du-Maroni"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Saint-Laurent-du-Maroniko barrutia"
+    ],
+    "name:fra_x_preferred":[
         "arrondissement de Saint-Laurent-du-Maroni"
-    ],
-    "name:ger_x_preferred":[
-        "Arrondissement Saint-Laurent-du-Maroni"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u03c4\u03bf\u03c5 \u03a3\u03b1\u03b9\u03bd-\u039b\u03c9\u03c1\u03ac\u03bd-\u03bd\u03c4\u03c5-\u039c\u03b1\u03c1\u03bf\u03bd\u03af"
     ],
     "name:ind_x_preferred":[
         "Arondisemen Saint-Laurent-du-Maroni"
@@ -66,16 +60,19 @@
     "name:nan_x_preferred":[
         "Saint-Laurent-du-Maroni K\u016bn"
     ],
+    "name:nld_x_preferred":[
+        "Arrondissement Saint-Laurent-du-Maroni"
+    ],
     "name:pol_x_preferred":[
         "Okr\u0119g Saint-Laurent-du-Maroni"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Arondismentul Saint-Laurent-du-Maroni"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d-\u041b\u043e\u0440\u0430\u043d-\u0434\u044e-\u041c\u0430\u0440\u043e\u043d\u0438"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Saint-Laurent-du-Maroni"
     ],
     "name:spa_x_preferred":[
@@ -86,6 +83,9 @@
     ],
     "name:vie_x_preferred":[
         "Saint-Laurent-du-Maroni"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u6d1b\u6717\u675c\u9a6c\u7f57\u5c3c\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108805933,
-    "wof:lastmodified":1536615845,
+    "wof:lastmodified":1561839905,
     "wof:name":"Saint-Laurent-du-Maroni",
     "wof:parent_id":85671195,
     "wof:placetype":"macrocounty",
