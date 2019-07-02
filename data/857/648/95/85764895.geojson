@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":14606587.236717,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-52.633689,5.15899,-52.633689,5.15899",
     "geom:latitude":5.15899,
     "geom:longitude":-52.633689,
@@ -29,9 +29,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:fra_x_preferred":[
-        "Village Saramaka"
-    ],
-    "name:fre_x_preferred":[
         "Village Saramaka"
     ],
     "name:unk_x_variant":[
@@ -128,7 +125,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1534379330,
+    "wof:lastmodified":1561839904,
     "wof:name":"Village Saramaka",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
