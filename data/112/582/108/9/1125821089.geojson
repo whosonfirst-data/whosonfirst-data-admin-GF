@@ -43,6 +43,9 @@
     "name:cat_x_preferred":[
         "Grand-Santi"
     ],
+    "name:ceb_x_preferred":[
+        "Grand-Santi"
+    ],
     "name:ces_x_preferred":[
         "Grand-Santi"
     ],
@@ -322,7 +325,7 @@
         }
     ],
     "wof:id":1125821089,
-    "wof:lastmodified":1561839905,
+    "wof:lastmodified":1563365601,
     "wof:name":"Grand-Santi",
     "wof:parent_id":1091680995,
     "wof:placetype":"locality",
