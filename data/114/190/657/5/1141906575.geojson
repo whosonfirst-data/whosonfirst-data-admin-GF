@@ -20,6 +20,9 @@
     "name:cat_x_preferred":[
         "Sinnamary"
     ],
+    "name:ceb_x_preferred":[
+        "Sinnamary"
+    ],
     "name:deu_x_preferred":[
         "Sinnamary"
     ],
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":1141906575,
-    "wof:lastmodified":1561839906,
+    "wof:lastmodified":1563365621,
     "wof:name":"Sinnamary",
     "wof:parent_id":1091680671,
     "wof:placetype":"locality",
