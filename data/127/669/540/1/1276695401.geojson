@@ -28,7 +28,34 @@
     "iso:country":"GF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lissa"
+    ],
+    "name:deu_x_preferred":[
+        "Lissa"
+    ],
     "name:fra_x_preferred":[
+        "Lissa"
+    ],
+    "name:hun_x_preferred":[
+        "Lissa"
+    ],
+    "name:ita_x_preferred":[
+        "Lissa"
+    ],
+    "name:lat_x_preferred":[
+        "Lissa"
+    ],
+    "name:lmo_x_preferred":[
+        "Lissa"
+    ],
+    "name:pol_x_preferred":[
+        "Lissa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0441\u0441\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Lissa"
     ],
     "src:geom":"geonames",
@@ -76,7 +103,7 @@
         }
     ],
     "wof:id":1276695401,
-    "wof:lastmodified":1537623366,
+    "wof:lastmodified":1564171883,
     "wof:name":"Lissa",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

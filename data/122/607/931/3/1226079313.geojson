@@ -31,6 +31,15 @@
     "name:fra_x_preferred":[
         "Kader"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30fc\u30c0\u30fc"
+    ],
+    "name:rus_x_preferred":[
+        "Kader"
+    ],
+    "name:zho_x_preferred":[
+        "\u958b\u9054\u96c6\u5718"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":1226079313,
-    "wof:lastmodified":1537623384,
+    "wof:lastmodified":1564171941,
     "wof:name":"Kader",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

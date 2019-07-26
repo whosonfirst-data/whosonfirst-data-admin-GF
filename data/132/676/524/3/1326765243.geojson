@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Jojo"
     ],
+    "name:nor_x_preferred":[
+        "Jojo"
+    ],
     "name:und_x_variant":[
         "Jejo"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1326765243,
-    "wof:lastmodified":1537623368,
+    "wof:lastmodified":1564171863,
     "wof:name":"Jojo",
     "wof:parent_id":1091680671,
     "wof:placetype":"locality",

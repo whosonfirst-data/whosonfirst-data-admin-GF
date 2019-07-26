@@ -28,6 +28,18 @@
     "iso:country":"GF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mafi"
+    ],
+    "name:deu_x_preferred":[
+        "Mafi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0444\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Mafi"
+    ],
     "name:und_x_variant":[
         "Village Maffi",
         "Mafi"
@@ -67,7 +79,7 @@
         }
     ],
     "wof:id":1259519511,
-    "wof:lastmodified":1537623366,
+    "wof:lastmodified":1564171933,
     "wof:name":"Mafi",
     "wof:parent_id":1091680691,
     "wof:placetype":"locality",

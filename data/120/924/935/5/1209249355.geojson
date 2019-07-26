@@ -28,6 +28,9 @@
     "iso:country":"GF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:slv_x_preferred":[
+        "Edmond"
+    ],
     "name:und_x_variant":[
         "Edmont",
         "Edmond"
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1209249355,
-    "wof:lastmodified":1537623370,
+    "wof:lastmodified":1564171896,
     "wof:name":"Edmond",
     "wof:parent_id":85671195,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "iso:country":"GF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kaw"
+    ],
+    "name:deu_x_preferred":[
+        "Kaw"
+    ],
+    "name:fra_x_preferred":[
+        "Kaw"
+    ],
+    "name:pol_x_preferred":[
+        "Kaw"
+    ],
     "name:und_x_variant":[
         "Caux",
         "Kaw"
@@ -67,7 +79,7 @@
         }
     ],
     "wof:id":1327467867,
-    "wof:lastmodified":1537623368,
+    "wof:lastmodified":1564171862,
     "wof:name":"Kaw",
     "wof:parent_id":1091680691,
     "wof:placetype":"locality",
