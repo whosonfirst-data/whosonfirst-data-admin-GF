@@ -19,6 +19,69 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0628\u0627\u064a\u0634\u0637\u0648\u0646"
+    ],
+    "name:cat_x_preferred":[
+        "Papaichton"
+    ],
+    "name:ceb_x_preferred":[
+        "Papa\u00efchton"
+    ],
+    "name:deu_x_preferred":[
+        "Papaichton"
+    ],
+    "name:fra_x_preferred":[
+        "Papaichton"
+    ],
+    "name:ind_x_preferred":[
+        "Papa\u00efchton"
+    ],
+    "name:ita_x_preferred":[
+        "Papa\u00efchton"
+    ],
+    "name:lat_x_preferred":[
+        "Papaichton"
+    ],
+    "name:lim_x_preferred":[
+        "Papa\u00efchton"
+    ],
+    "name:msa_x_preferred":[
+        "Papa\u00efchton"
+    ],
+    "name:nld_x_preferred":[
+        "Papaichton"
+    ],
+    "name:oci_x_preferred":[
+        "Papaichton"
+    ],
+    "name:pms_x_preferred":[
+        "Papa\u00efchton"
+    ],
+    "name:pol_x_preferred":[
+        "Papa\u00efchton"
+    ],
+    "name:por_x_preferred":[
+        "Papa\u00efchton"
+    ],
+    "name:slk_x_preferred":[
+        "Papa\u00efchton"
+    ],
+    "name:spa_x_preferred":[
+        "Papa\u00efchton"
+    ],
+    "name:swe_x_preferred":[
+        "Papa\u00efchton"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043f\u0430\u0457\u0448\u0442\u043e\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Papa\u00efchton"
+    ],
+    "name:war_x_preferred":[
+        "Papa\u00efchton"
+    ],
     "qs_pg:aaroncc":"GF",
     "qs_pg:gn_country":"GF",
     "qs_pg:gn_fcode":"ADM4",
@@ -69,7 +132,7 @@
         }
     ],
     "wof:id":1125340607,
-    "wof:lastmodified":1509388650,
+    "wof:lastmodified":1564171921,
     "wof:name":"Papa\u00efchton",
     "wof:parent_id":1091680969,
     "wof:placetype":"localadmin",

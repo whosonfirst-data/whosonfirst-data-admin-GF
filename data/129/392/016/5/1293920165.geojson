@@ -31,6 +31,18 @@
     "name:fra_x_preferred":[
         "Ponta"
     ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30f3\u30bf"
+    ],
+    "name:por_x_preferred":[
+        "Ponta"
+    ],
+    "name:ron_x_preferred":[
+        "Ponta"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043e\u043d\u0442\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85671195,
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":1293920165,
-    "wof:lastmodified":1537623364,
+    "wof:lastmodified":1564171878,
     "wof:name":"Ponta",
     "wof:parent_id":1091681061,
     "wof:placetype":"locality",

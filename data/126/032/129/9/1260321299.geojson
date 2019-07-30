@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Mog\u00e8s"
     ],
+    "name:fra_x_variant":[
+        "Moges"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85671195,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1260321299,
-    "wof:lastmodified":1537623366,
+    "wof:lastmodified":1564171906,
     "wof:name":"Moges",
     "wof:parent_id":1091680751,
     "wof:placetype":"locality",

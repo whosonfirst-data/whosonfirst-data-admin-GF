@@ -28,6 +28,9 @@
     "iso:country":"GF",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Javouhey"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85671195,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1310436249,
-    "wof:lastmodified":1537563018,
+    "wof:lastmodified":1564171912,
     "wof:name":"Javouhey",
     "wof:parent_id":1091680813,
     "wof:placetype":"locality",

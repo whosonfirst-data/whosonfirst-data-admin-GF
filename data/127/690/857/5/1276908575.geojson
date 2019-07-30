@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Tampok"
     ],
+    "name:pol_x_preferred":[
+        "Tampoc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85671195,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1276908575,
-    "wof:lastmodified":1537623362,
+    "wof:lastmodified":1564171888,
     "wof:name":"Tampok",
     "wof:parent_id":1091681087,
     "wof:placetype":"locality",

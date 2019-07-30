@@ -34,6 +34,15 @@
     "name:fra_x_variant":[
         "F\u00e9no"
     ],
+    "name:nld_x_preferred":[
+        "Maripa"
+    ],
+    "name:ron_x_preferred":[
+        "Maripa"
+    ],
+    "name:swe_x_preferred":[
+        "Maripa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85671195,
@@ -69,7 +78,7 @@
         }
     ],
     "wof:id":1226577643,
-    "wof:lastmodified":1537623382,
+    "wof:lastmodified":1564171937,
     "wof:name":"Maripa",
     "wof:parent_id":1091680763,
     "wof:placetype":"locality",
