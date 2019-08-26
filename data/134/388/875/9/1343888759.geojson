@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Cayenne",
     "iso:country":"GF",
+    "lbl:bbox":"-52.54155,4.84311,-52.50155,4.88311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Coco"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1343888759,
-    "wof:lastmodified":1564171872,
+    "wof:lastmodified":1566637418,
     "wof:name":"Coco",
     "wof:parent_id":1091680871,
     "wof:placetype":"locality",

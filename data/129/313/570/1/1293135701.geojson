@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Cayenne",
     "iso:country":"GF",
+    "lbl:bbox":"-52.33765,4.86336,-52.29765,4.90336",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Combo"
     ],
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1293135701,
-    "wof:lastmodified":1564171878,
+    "wof:lastmodified":1566637423,
     "wof:name":"Combo",
     "wof:parent_id":1091680751,
     "wof:placetype":"locality",

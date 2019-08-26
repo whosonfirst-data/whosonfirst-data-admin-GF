@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Cayenne",
     "iso:country":"GF",
+    "lbl:bbox":"-54.0285,4.75613,-53.9885,4.79613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Placer Paul Isnard",
         "Paul Isnard"
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1276264541,
-    "wof:lastmodified":1537623365,
+    "wof:lastmodified":1566637427,
     "wof:name":"Paul Isnard",
     "wof:parent_id":1091680763,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Cayenne",
     "iso:country":"GF",
+    "lbl:bbox":"-53.98231,4.7203,-53.94231,4.7603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u1275\u122d\u1295\u130e"
     ],
@@ -255,7 +259,7 @@
         }
     ],
     "wof:id":1276586679,
-    "wof:lastmodified":1564171885,
+    "wof:lastmodified":1566637429,
     "wof:name":"Citron",
     "wof:parent_id":1091680763,
     "wof:placetype":"locality",

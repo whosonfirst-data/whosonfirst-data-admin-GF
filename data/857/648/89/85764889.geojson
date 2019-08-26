@@ -12,8 +12,10 @@
     "gn:latitude":5.16799,
     "gn:longitude":-52.65058,
     "iso:country":"GF",
+    "lbl:bbox":"-52.657796,5.156598,-52.647796,5.166598",
     "lbl:latitude":5.161598,
     "lbl:longitude":-52.652796,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.170409,
     "mps:longitude":-52.662484,
     "mz:hierarchy_label":0,
@@ -26,9 +28,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:fra_x_preferred":[
-        "Moyoco"
-    ],
-    "name:unk_x_variant":[
         "Moyoco"
     ],
     "qs:gn_adm0_cc":"GF",
@@ -59,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633147,
@@ -73,7 +72,7 @@
     "wof:concordances":{
         "gn:id":3380857,
         "gp:id":379684,
-        "qs:id":240975
+        "qs_pg:id":240975
     },
     "wof:country":"GF",
     "wof:geomhash":"40766910a586587151037b745ef7fb92",
@@ -101,7 +100,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561839904,
+    "wof:lastmodified":1566637419,
     "wof:name":"Moyoco",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

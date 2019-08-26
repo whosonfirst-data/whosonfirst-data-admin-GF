@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Paramaribo",
     "iso:country":"GF",
+    "lbl:bbox":"-54.01136,3.6076,-53.97136,3.6476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Alo\u00efk\u00e9"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1276586089,
-    "wof:lastmodified":1537623376,
+    "wof:lastmodified":1566637429,
     "wof:name":"Aloike",
     "wof:parent_id":1091681087,
     "wof:placetype":"locality",

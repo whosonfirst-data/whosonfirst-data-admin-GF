@@ -9,14 +9,16 @@
     "geom:bbox":"-52.646095,5.171989,-52.646095,5.171989",
     "geom:latitude":5.171989,
     "geom:longitude":-52.646095,
-    "gn:gn_country":"GF",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"GF",
+    "gn:fcode":"PPLX",
     "gn:latitude":5.16084,
     "gn:longitude":-52.62993,
+    "gn:population":0,
     "iso:country":"GF",
+    "lbl:bbox":"-52.651095,5.166989,-52.641095,5.176989",
     "lbl:latitude":5.171989,
     "lbl:longitude":-52.646095,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.174932,
     "mps:longitude":-52.642251,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:fra_x_preferred":[
-        "Les Roches"
-    ],
-    "name:unk_x_variant":[
         "Les Roches"
     ],
     "qs:gn_adm0_cc":"GF",
@@ -82,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633147,
@@ -96,7 +95,6 @@
     "wof:concordances":{
         "gn:id":3381171,
         "gp:id":379640,
-        "qs:id":1165380,
         "qs_pg:id":1165380
     },
     "wof:country":"GF",
@@ -125,7 +123,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561839904,
+    "wof:lastmodified":1566637419,
     "wof:name":"Les Roches",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
