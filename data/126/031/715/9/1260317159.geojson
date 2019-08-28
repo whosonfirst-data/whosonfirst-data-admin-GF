@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Cayenne",
     "iso:country":"GF",
+    "lbl:bbox":"-54.43046,4.53536,-54.39046,4.57536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191577,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1260317159,
-    "wof:lastmodified":1536666870,
+    "wof:lastmodified":1566637443,
     "wof:name":"Mompe Soula",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

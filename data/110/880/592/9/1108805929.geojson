@@ -12,9 +12,11 @@
     "iso:country":"GF",
     "lbl:latitude":4.218136,
     "lbl:longitude":-52.524683,
+    "lbl:min_zoom":9.0,
     "meso:name_loc":"Cayenne",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0626\u0631\u0629 \u0643\u0627\u064a\u064a\u0646"
     ],
@@ -97,9 +99,9 @@
         "\u5361\u5bb4\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"49,500",
     "statoids:area_mi":"19,100",
     "statoids:as_of_date":"2010-01-01",
@@ -142,11 +144,10 @@
         }
     ],
     "wof:id":1108805929,
-    "wof:lastmodified":1563365584,
+    "wof:lastmodified":1566637446,
     "wof:name":"Cayenne",
     "wof:parent_id":85671195,
     "wof:placetype":"macrocounty",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"arrondissement",
     "wof:population":156734,
     "wof:population_rank":9,

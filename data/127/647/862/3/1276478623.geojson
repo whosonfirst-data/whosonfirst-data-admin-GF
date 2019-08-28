@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Cayenne",
     "iso:country":"GF",
+    "lbl:bbox":"-54.18723,5.31918,-54.14723,5.35918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gode"
     ],
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":1276478623,
-    "wof:lastmodified":1564171886,
+    "wof:lastmodified":1566637431,
     "wof:name":"Gode",
     "wof:parent_id":1091680763,
     "wof:placetype":"locality",

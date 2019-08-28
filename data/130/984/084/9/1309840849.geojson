@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"America/Cayenne",
     "iso:country":"GF",
+    "lbl:bbox":"-53.15625,5.43004,-53.11625,5.47004",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Conamama",
         "Counamama"
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1309840849,
-    "wof:lastmodified":1537623371,
+    "wof:lastmodified":1566637456,
     "wof:name":"Counamama",
     "wof:parent_id":1091680627,
     "wof:placetype":"locality",

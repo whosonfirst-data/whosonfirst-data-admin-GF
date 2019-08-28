@@ -12,8 +12,10 @@
     "gn:latitude":4.92947,
     "gn:longitude":-52.33347,
     "iso:country":"GF",
+    "lbl:bbox":"-52.34274,4.93065,-52.33274,4.94065",
     "lbl:latitude":4.93565,
     "lbl:longitude":-52.33774,
+    "lbl:max_zoom":18.0,
     "mps:latitude":4.937839,
     "mps:longitude":-52.34194,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:fre_x_colloquial":[
         "Ilet Malouin"
-    ],
-    "name:unk_x_variant":[
-        "\u00celet Malouin"
     ],
     "qs:gn_adm0_cc":"GF",
     "qs:gn_fcode":"PPLX",
@@ -62,7 +61,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85671195,
         102191581,
@@ -73,7 +72,6 @@
     "wof:concordances":{
         "gn:id":3381450,
         "gp:id":379586,
-        "qs:id":300173,
         "qs_pg:id":300173
     },
     "wof:country":"GF",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561839904,
+    "wof:lastmodified":1566637419,
     "wof:name":"\u00celet Malouin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

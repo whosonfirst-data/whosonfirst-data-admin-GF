@@ -9,14 +9,16 @@
     "geom:bbox":"-52.633689,5.15899,-52.633689,5.15899",
     "geom:latitude":5.15899,
     "geom:longitude":-52.633689,
-    "gn:gn_country":"GF",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"GF",
+    "gn:fcode":"PPLX",
     "gn:latitude":5.15568,
     "gn:longitude":-52.63787,
+    "gn:population":0,
     "iso:country":"GF",
+    "lbl:bbox":"-52.638689,5.15399,-52.628689,5.16399",
     "lbl:latitude":5.15899,
     "lbl:longitude":-52.633689,
+    "lbl:max_zoom":18.0,
     "mps:latitude":5.154961,
     "mps:longitude":-52.625922,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":1,
     "name:fra_x_preferred":[
-        "Village Saramaka"
-    ],
-    "name:unk_x_variant":[
         "Village Saramaka"
     ],
     "qs:gn_adm0_cc":"GF",
@@ -82,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191581,
         85633147,
@@ -96,7 +95,6 @@
     "wof:concordances":{
         "gn:id":3380062,
         "gp:id":379822,
-        "qs:id":893984,
         "qs_pg:id":893984
     },
     "wof:country":"GF",
@@ -125,7 +123,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1561839904,
+    "wof:lastmodified":1566637418,
     "wof:name":"Village Saramaka",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
