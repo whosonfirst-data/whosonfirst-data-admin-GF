@@ -78,6 +78,9 @@
         "qs_pg:id":1165381
     },
     "wof:country":"GF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b25175aa730968d989f5f5d249250f0f",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566637419,
+    "wof:lastmodified":1582343958,
     "wof:name":"Village Br\u00e9silien",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

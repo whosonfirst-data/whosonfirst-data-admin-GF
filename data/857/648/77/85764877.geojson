@@ -78,6 +78,10 @@
         "qs_pg:id":1082751
     },
     "wof:country":"GF",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c2189095600c38dca86a79bdf68c659f",
     "wof:hierarchy":[
         {
@@ -103,7 +107,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566637419,
+    "wof:lastmodified":1582343959,
     "wof:name":"Cit\u00e9 C\u00e9saire",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

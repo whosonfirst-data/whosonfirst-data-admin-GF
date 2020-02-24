@@ -98,6 +98,9 @@
         "qs_pg:id":1165380
     },
     "wof:country":"GF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b247ec11406ac4bb01f53e1404ec1bb6",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566637419,
+    "wof:lastmodified":1582343959,
     "wof:name":"Les Roches",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
