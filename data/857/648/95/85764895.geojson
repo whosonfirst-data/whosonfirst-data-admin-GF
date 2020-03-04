@@ -98,6 +98,9 @@
         "qs_pg:id":893984
     },
     "wof:country":"GF",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b5a3b5cdbda0dd38c8cd7bb87e2566b7",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1566637418,
+    "wof:lastmodified":1582343958,
     "wof:name":"Village Saramaka",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
