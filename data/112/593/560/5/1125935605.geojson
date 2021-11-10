@@ -40,6 +40,9 @@
     "name:bar_x_preferred":[
         "Iracoubo"
     ],
+    "name:ben_x_preferred":[
+        "\u0987\u09b0\u09be\u0995\u09cb\u0989\u09ac\u09cb"
+    ],
     "name:bre_x_preferred":[
         "Iracoubo"
     ],
@@ -79,6 +82,9 @@
     "name:fao_x_preferred":[
         "Iracoubo"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0631\u0627\u06a9\u0648\u0628\u0648"
+    ],
     "name:fin_x_preferred":[
         "Iracoubo"
     ],
@@ -105,6 +111,12 @@
     ],
     "name:gsw_x_preferred":[
         "Iracoubo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e8\u05e7\u05d5\u05d1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u0930\u093e\u0915\u0942\u092c\u094b"
     ],
     "name:hrv_x_preferred":[
         "Iracoubo"
@@ -133,6 +145,9 @@
     "name:jam_x_preferred":[
         "Iracoubo"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30e9\u30af\u30fc\u30dc"
+    ],
     "name:kab_x_preferred":[
         "Iracoubo"
     ],
@@ -141,6 +156,9 @@
     ],
     "name:kon_x_preferred":[
         "Iracoubo"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\ub77c\ucfe0\ubcf4"
     ],
     "name:lat_x_preferred":[
         "Iracoubo"
@@ -217,6 +235,9 @@
     "name:ron_x_preferred":[
         "Iracoubo"
     ],
+    "name:rus_x_preferred":[
+        "\u0418\u0440\u0430\u043a\u0443\u0431\u043e"
+    ],
     "name:scn_x_preferred":[
         "Iracoubo"
     ],
@@ -244,6 +265,9 @@
     "name:ukr_x_preferred":[
         "\u0406\u0440\u0430\u043a\u0443\u0431\u043e"
     ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u0631\u0627\u06a9\u0648\u0628\u0648"
+    ],
     "name:vec_x_preferred":[
         "Iracoubo"
     ],
@@ -267,6 +291,12 @@
     ],
     "name:wol_x_preferred":[
         "Iracoubo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4f0a\u62c9\u5e93\u535a"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4f0a\u62c9\u5eab\u535a"
     ],
     "name:zul_x_preferred":[
         "Iracoubo"
@@ -322,7 +352,7 @@
         }
     ],
     "wof:id":1125935605,
-    "wof:lastmodified":1566637458,
+    "wof:lastmodified":1636500495,
     "wof:name":"Iracoubo",
     "wof:parent_id":1091680627,
     "wof:placetype":"locality",

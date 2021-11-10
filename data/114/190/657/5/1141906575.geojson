@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-52.9599821387,5.38001914359,-52.9599821387,5.38001914359",
+    "geom:bbox":"-52.959982,5.380019,-52.959982,5.380019",
     "geom:latitude":5.380019,
     "geom:longitude":-52.959982,
     "iso:country":"GF",
@@ -20,6 +20,9 @@
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u0627\u0645\u0627\u0631\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09bf\u09a8\u09cd\u09a8\u09be\u09ae\u09c7\u09b0\u09bf"
     ],
     "name:cat_x_preferred":[
         "Sinnamary"
@@ -36,8 +39,17 @@
     "name:eng_x_preferred":[
         "Sinnamary"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u0627\u0645\u0627\u0631\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Sinnamary"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05e0\u05e0\u05de\u05e8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093f\u0928\u093e\u092e\u0948\u0930\u0940"
     ],
     "name:hun_x_preferred":[
         "Sinnamary"
@@ -50,6 +62,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30f3\u30ca\u30de\u30ea\u30fc"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e0\ub098\ub9c8\ub9ac"
     ],
     "name:lat_x_preferred":[
         "Sinnamary"
@@ -90,8 +105,14 @@
     "name:swe_x_preferred":[
         "Sinnamary"
     ],
+    "name:tur_x_preferred":[
+        "Sinnamary"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043d\u043d\u0430\u043c\u0430\u0440\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0646\u0627\u0645\u0627\u0631\u06cc"
     ],
     "name:vie_x_preferred":[
         "Sinnamary"
@@ -210,7 +231,7 @@
     },
     "wof:country":"GF",
     "wof:created":1499130611,
-    "wof:geomhash":"cb6ebe2ede6ac356aef1856bbe21b3e7",
+    "wof:geomhash":"00acf881cbd6c315222dc72eabaf525e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -230,7 +251,7 @@
         }
     ],
     "wof:id":1141906575,
-    "wof:lastmodified":1566637477,
+    "wof:lastmodified":1636500496,
     "wof:name":"Sinnamary",
     "wof:parent_id":1091680671,
     "wof:placetype":"locality",
@@ -240,10 +261,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -52.9599821386708,
-    5.38001914359268,
-    -52.9599821386708,
-    5.38001914359268
+    -52.959982,
+    5.380019,
+    -52.959982,
+    5.380019
 ],
-  "geometry": {"coordinates":[-52.9599821386708,5.38001914359268],"type":"Point"}
+  "geometry": {"coordinates":[-52.959982,5.380019],"type":"Point"}
 }

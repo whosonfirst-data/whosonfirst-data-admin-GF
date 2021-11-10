@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-54.0325345879,5.49762408054,-54.0325345879,5.49762408054",
+    "geom:bbox":"-54.032535,5.497624,-54.032535,5.497624",
     "geom:latitude":5.497624,
     "geom:longitude":-54.032535,
     "iso:country":"GF",
@@ -35,6 +35,9 @@
     ],
     "name:bar_x_preferred":[
         "Saint-Laurent-du-Maroni"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f-\u09b2\u0989\u09b0\u09c7\u09a8\u09cd\u099f-\u09a6\u09c1-\u09ae\u09be\u09b0\u09cb\u09a8\u09bf"
     ],
     "name:bre_x_preferred":[
         "Saint-Laurent-du-Maroni"
@@ -107,6 +110,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05d9\u05e0\u05d8 \u05dc\u05d5\u05e8\u05df \u05d3\u05d4 \u05de\u05e8\u05d5\u05e0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f-\u0932\u0949\u0930\u0947\u0902\u091f-\u0921\u0942-\u092e\u0930\u094b\u0928\u0940"
     ],
     "name:hrv_x_preferred":[
         "Saint-Laurent-du-Maroni"
@@ -405,7 +411,7 @@
     },
     "wof:country":"GF",
     "wof:created":1499130769,
-    "wof:geomhash":"c6e4a6d9cb43afdba35042bec37100de",
+    "wof:geomhash":"e699b62b17b6da381435e1f030023c7a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -425,7 +431,7 @@
         }
     ],
     "wof:id":1141907777,
-    "wof:lastmodified":1566637477,
+    "wof:lastmodified":1636500496,
     "wof:name":"Saint-Laurent-du-Maroni",
     "wof:parent_id":1091680763,
     "wof:placetype":"locality",
@@ -435,10 +441,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -54.03253458791767,
-    5.49762408054067,
-    -54.03253458791767,
-    5.49762408054067
+    -54.032535,
+    5.497624,
+    -54.032535,
+    5.497624
 ],
-  "geometry": {"coordinates":[-54.03253458791767,5.49762408054067],"type":"Point"}
+  "geometry": {"coordinates":[-54.032535,5.497624],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-52.3300205908,4.72998130179,-52.3300205908,4.72998130179",
+    "geom:bbox":"-52.330021,4.729981,-52.330021,4.729981",
     "geom:latitude":4.729981,
     "geom:longitude":-52.330021,
     "iso:country":"GF",
@@ -35,6 +35,9 @@
     ],
     "name:bar_x_preferred":[
         "Roura"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09cb\u0989\u09b0\u09be"
     ],
     "name:bre_x_preferred":[
         "Roura"
@@ -78,6 +81,9 @@
     "name:fao_x_preferred":[
         "Roura"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Roura"
     ],
@@ -104,6 +110,12 @@
     ],
     "name:gsw_x_preferred":[
         "Roura"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d0\u05d5\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u0909\u0930\u093e"
     ],
     "name:hrv_x_preferred":[
         "Roura"
@@ -132,6 +144,9 @@
     "name:jam_x_preferred":[
         "Roura"
     ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30fc\u30e9"
+    ],
     "name:kab_x_preferred":[
         "Roura"
     ],
@@ -140,6 +155,9 @@
     ],
     "name:kon_x_preferred":[
         "Roura"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ub77c"
     ],
     "name:lat_x_preferred":[
         "Roura"
@@ -246,6 +264,9 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0440\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0631\u0627"
+    ],
     "name:vec_x_preferred":[
         "Roura"
     ],
@@ -269,6 +290,12 @@
     ],
     "name:wol_x_preferred":[
         "Roura"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9c81\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9b6f\u62c9"
     ],
     "name:zul_x_preferred":[
         "Roura"
@@ -384,7 +411,7 @@
     },
     "wof:country":"GF",
     "wof:created":1499130611,
-    "wof:geomhash":"739b413e7be0140b55d45736b9538732",
+    "wof:geomhash":"e50691a2adca46b13791796cda98e5ee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -404,7 +431,7 @@
         }
     ],
     "wof:id":1141906573,
-    "wof:lastmodified":1566637477,
+    "wof:lastmodified":1636500496,
     "wof:name":"Roura",
     "wof:parent_id":1091680907,
     "wof:placetype":"locality",
@@ -414,10 +441,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -52.33002059081667,
-    4.7299813017932,
-    -52.33002059081667,
-    4.7299813017932
+    -52.330021,
+    4.729981,
+    -52.330021,
+    4.729981
 ],
-  "geometry": {"coordinates":[-52.33002059081667,4.7299813017932],"type":"Point"}
+  "geometry": {"coordinates":[-52.330021,4.729981],"type":"Point"}
 }

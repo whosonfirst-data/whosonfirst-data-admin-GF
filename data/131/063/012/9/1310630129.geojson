@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Quesnel"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05e0\u05dc"
+    ],
     "name:ita_x_preferred":[
         "Quesnel"
     ],
@@ -45,6 +48,9 @@
         "Quesnel"
     ],
     "name:nld_x_preferred":[
+        "Quesnel"
+    ],
+    "name:spa_x_preferred":[
         "Quesnel"
     ],
     "src:geom":"geonames",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1310630129,
-    "wof:lastmodified":1566637450,
+    "wof:lastmodified":1636500495,
     "wof:name":"Quesnel",
     "wof:parent_id":1091680871,
     "wof:placetype":"locality",
