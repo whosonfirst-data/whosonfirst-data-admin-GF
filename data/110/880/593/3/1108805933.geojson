@@ -56,6 +56,9 @@
     "name:fra_x_preferred":[
         "arrondissement de Saint-Laurent-du-Maroni"
     ],
+    "name:gle_x_preferred":[
+        "Arrondissement Saint-Laurent-du-Maroni"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0902\u091f-\u0932\u0949\u0930\u0947\u0902\u091f-\u0921\u0942-\u092e\u0930\u094b\u0928\u0940"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:nld_x_preferred":[
         "Arrondissement Saint-Laurent-du-Maroni"
+    ],
+    "name:nld_x_variant":[
+        "arrondissement Saint-Laurent-du-Maroni"
     ],
     "name:pol_x_preferred":[
         "Okr\u0119g Saint-Laurent-du-Maroni"
@@ -98,11 +104,23 @@
     "name:swe_x_preferred":[
         "Arrondissement de Saint-Laurent-du-Maroni"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0435\u043d-\u041b\u043e\u0440\u0430\u043d-\u0434\u044e-\u041c\u0430\u0440\u043e\u043d\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "Saint-Laurent-du-Maroni"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d-\u041b\u043e\u0440\u0430\u043d-\u0434\u044e-\u041c\u0430\u0440\u043e\u043d\u0456"
+    ],
     "name:vie_x_preferred":[
         "Saint-Laurent-du-Maroni"
     ],
     "name:zho_x_preferred":[
         "\u5723\u6d1b\u6717\u675c\u9a6c\u7f57\u5c3c\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u7f57\u5c3c\u6cb3\u7554\u5723\u6d1b\u6717\u533a"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -150,7 +168,7 @@
         }
     ],
     "wof:id":1108805933,
-    "wof:lastmodified":1636500495,
+    "wof:lastmodified":1690921625,
     "wof:name":"Saint-Laurent-du-Maroni",
     "wof:parent_id":85671195,
     "wof:placetype":"macrocounty",

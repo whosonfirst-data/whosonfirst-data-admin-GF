@@ -31,6 +31,9 @@
     "name:arg_x_preferred":[
         "Iracoubo"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u0627\u0643\u0648\u0628\u0648"
+    ],
     "name:ast_x_preferred":[
         "Iracoubo"
     ],
@@ -55,6 +58,9 @@
     "name:ces_x_preferred":[
         "Iracoubo"
     ],
+    "name:che_x_preferred":[
+        "\u0418\u0433\u04c0\u0430\u043a\u0443\u0431\u043e"
+    ],
     "name:cos_x_preferred":[
         "Iracoubo"
     ],
@@ -66,6 +72,9 @@
     ],
     "name:deu_x_preferred":[
         "Iracoubo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c1\u03b1\u03ba\u03bf\u03c5\u03bc\u03c0\u03cc"
     ],
     "name:eng_x_preferred":[
         "Iracoubo"
@@ -99,6 +108,9 @@
     ],
     "name:fur_x_preferred":[
         "Iracoubo"
+    ],
+    "name:gcr_x_preferred":[
+        "Yakoubo"
     ],
     "name:gla_x_preferred":[
         "Iracoubo"
@@ -173,6 +185,9 @@
         "Iracoubo"
     ],
     "name:lit_x_preferred":[
+        "Iracoubo"
+    ],
+    "name:lld_x_preferred":[
         "Iracoubo"
     ],
     "name:ltz_x_preferred":[
@@ -298,6 +313,9 @@
     "name:zho_tw_x_preferred":[
         "\u4f0a\u62c9\u5eab\u535a"
     ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u62c9\u5e93\u535a"
+    ],
     "name:zul_x_preferred":[
         "Iracoubo"
     ],
@@ -352,7 +370,7 @@
         }
     ],
     "wof:id":1125935605,
-    "wof:lastmodified":1636500495,
+    "wof:lastmodified":1690921626,
     "wof:name":"Iracoubo",
     "wof:parent_id":1091680627,
     "wof:placetype":"locality",
