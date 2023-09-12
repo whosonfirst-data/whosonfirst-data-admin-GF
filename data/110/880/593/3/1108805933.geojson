@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.350303,
-    "geom:area_square_m":41327585122.72316,
+    "geom:area_square_m":41327585133.67878,
     "geom:bbox":"-54.60239,2.111058,-53.052683,5.747234",
     "geom:latitude":3.856607,
     "geom:longitude":-53.792065,
     "iso:country":"GF",
+    "label:eng_x_preferred_longname":[
+        "Saint-Laurent-du-Maroni Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":3.99046,
     "lbl:longitude":-53.700677,
     "lbl:min_zoom":9.0,
@@ -152,7 +158,7 @@
     },
     "wof:country":"GF",
     "wof:created":1485971834,
-    "wof:geomhash":"1f54500c446f34e3d53bf50842ccb04b",
+    "wof:geomhash":"7562cf3c5add1d725b7e0d0f68026fad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":1108805933,
-    "wof:lastmodified":1690921625,
+    "wof:lastmodified":1694493037,
     "wof:name":"Saint-Laurent-du-Maroni",
     "wof:parent_id":85671195,
     "wof:placetype":"macrocounty",
