@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.47019,
-    "geom:area_square_m":42801196110.466553,
+    "geom:area_square_m":42801194850.077942,
     "geom:bbox":"-53.903453,2.168072,-51.619041,5.747963",
     "geom:latitude":3.988128,
     "geom:longitude":-52.697824,
     "iso:country":"GF",
+    "label:eng_x_preferred_longname":[
+        "Cayenne Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":4.218136,
     "lbl:longitude":-52.524683,
     "lbl:min_zoom":9.0,
@@ -143,7 +149,7 @@
     },
     "wof:country":"GF",
     "wof:created":1485971832,
-    "wof:geomhash":"8e6ac4fa587d307548420569ebc9c757",
+    "wof:geomhash":"d322e86d92c1fceac7b28cbc7ab887a5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -159,7 +165,7 @@
         }
     ],
     "wof:id":1108805929,
-    "wof:lastmodified":1690921625,
+    "wof:lastmodified":1694493034,
     "wof:name":"Cayenne",
     "wof:parent_id":85671195,
     "wof:placetype":"macrocounty",
