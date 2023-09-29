@@ -147,6 +147,7 @@
         "hasc:id":"GF.CY",
         "wd:id":"Q672744"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GF",
     "wof:created":1485971832,
     "wof:geomhash":"d322e86d92c1fceac7b28cbc7ab887a5",
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":1108805929,
-    "wof:lastmodified":1695885816,
+    "wof:lastmodified":1696023154,
     "wof:name":"Cayenne",
     "wof:parent_id":85671195,
     "wof:placetype":"macrocounty",

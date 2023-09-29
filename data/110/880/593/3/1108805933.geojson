@@ -156,6 +156,7 @@
         "hasc:id":"GF.SL",
         "wd:id":"Q692903"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"GF",
     "wof:created":1485971834,
     "wof:geomhash":"7562cf3c5add1d725b7e0d0f68026fad",
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":1108805933,
-    "wof:lastmodified":1695885846,
+    "wof:lastmodified":1696023154,
     "wof:name":"Saint-Laurent-du-Maroni",
     "wof:parent_id":85671195,
     "wof:placetype":"macrocounty",
