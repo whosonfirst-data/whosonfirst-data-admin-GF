@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-52.33333,4.93333,-52.33333,4.93333",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Cayenne"
@@ -345,14 +347,16 @@
         }
     ],
     "wof:id":1310442023,
-    "wof:lastmodified":1566637451,
+    "wof:lastmodified":1706239576,
     "wof:name":"Cayenne",
     "wof:parent_id":1091680781,
     "wof:placetype":"locality",
     "wof:population":61550,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-gf",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890442055
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
